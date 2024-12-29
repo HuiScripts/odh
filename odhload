@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HuiScripts/odh/refs/heads/main/odhdh.txt"))()
